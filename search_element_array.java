@@ -1,3 +1,6 @@
+/*  Search an Element in an array
+    Given an integer array and another integer element. The task is to find if the given element is present in array or not.*/
+
 import java.util.Scanner;
 
 public class search_element_array {
